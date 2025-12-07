@@ -1,0 +1,5 @@
+{
+  "name": "memmory card game",
+  "description": "A modern memory card matching game featuring AI-generated themes powered by Gemini.",
+  "requestFramePermissions": []
+}
